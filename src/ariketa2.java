@@ -15,6 +15,7 @@ public class ariketa2 {
 			zbk--;	
 		}
 		System.out.println(batura);
+		teklatua.close();
 		}
-		//teklatua.close();
+		
 }
