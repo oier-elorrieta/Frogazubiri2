@@ -14,6 +14,6 @@ public class ariketa3 {
 			}
 			
 			
-			teklatua.close();
+			//teklatua.close();
 }
 }
